@@ -1,10 +1,10 @@
-import 'package:firebase_splash_login/constants/index.dart';
 import 'package:firebase_splash_login/features/splash/splash_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:lottie/lottie.dart';
 import 'package:kartal/kartal.dart';
-
+import '../../product/constants/color_constants.dart';
+import '../../product/constants/string_constants.dart';
 import '../../product/widget/texts/wavy_text.dart';
 import '../home_view.dart';
 

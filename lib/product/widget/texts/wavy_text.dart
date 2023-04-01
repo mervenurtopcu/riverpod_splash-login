@@ -1,7 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-
-import '../../../constants/color_constants.dart';
+import '../../constants/color_constants.dart';
 
 class WavyText extends StatelessWidget {
   const WavyText({Key? key, required this.title}) : super(key: key);

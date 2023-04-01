@@ -1,9 +1,10 @@
 import 'package:firebase_splash_login/features/splash/splash_view.dart';
+import 'package:firebase_splash_login/product/constants/color_constants.dart';
 import 'package:firebase_splash_login/product/initialize/application_start.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'constants/color_constants.dart';
+
 
 Future<void> main() async {
   //Firebase proje başlangıç kodları
