@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "989615574144",
+    "project_id": "fir-splash-login",
+    "storage_bucket": "fir-splash-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989615574144:android:0afdaf95d6bd8efa87ea65",
+        "android_client_info": {
+          "package_name": "com.example.firebase_splash_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989615574144-55sbrbn59ojmtk7orip6aqqd294sl243.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_N3tAT9__r3t3t_dDvUiF3jVkLo-yRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989615574144-55sbrbn59ojmtk7orip6aqqd294sl243.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989615574144-pjf4qu7j50v3kc3788cncc1fdqvp3eai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSplashLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
